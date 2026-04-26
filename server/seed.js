@@ -41,7 +41,7 @@ const seedData = async () => {
                 type: 'Point',
                 coordinates: [-74.0060, 40.7128] // [longitude, latitude]
             },
-            isApproved: true
+            isApproved: false,   // must be approved by admin first
         });
 
         // Create Medicines
