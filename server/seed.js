@@ -36,6 +36,10 @@ const seedData = async () => {
             pharmacyName: 'Central City Pharmacy',
             address: '123 Main St, New York, NY',
             contactNumber: '555-0123',
+            location: {
+                type: 'Point',
+                coordinates: [-74.0060, 40.7128] // [longitude, latitude]
+            },
             isApproved: true
         });
 
