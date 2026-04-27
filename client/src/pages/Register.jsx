@@ -103,7 +103,7 @@ const Register = () => {
                         <Pill size={24} color="#fff" />
                     </div>
                     <h2 style={{ fontSize: '22px', fontWeight: 800, marginBottom: '4px' }}>Create Account</h2>
-                    <p style={{ fontSize: '13px', color: 'var(--color-text-muted)' }}>Join PharmaPlatform today</p>
+                    <p style={{ fontSize: '13px', color: 'var(--color-text-muted)' }}>Join IMMIMED today</p>
                 </div>
 
                 {error && (

@@ -55,7 +55,7 @@ const Login = () => {
                         <Pill size={26} color="#fff" />
                     </div>
                     <h2 style={{ fontSize: '22px', fontWeight: 800, marginBottom: '4px' }}>Welcome back</h2>
-                    <p style={{ fontSize: '13px', color: 'var(--color-text-muted)' }}>Sign in to your PharmaPlatform account</p>
+                    <p style={{ fontSize: '13px', color: 'var(--color-text-muted)' }}>Sign in to your IMMIMED account</p>
                 </div>
 
                 {error && (

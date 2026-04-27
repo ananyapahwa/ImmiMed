@@ -172,7 +172,7 @@ const AdminDashboard = () => {
                         </div>
                         <div>
                             <h1 style={{ fontSize: '22px', fontWeight: 800, marginBottom: '2px' }}>Admin Panel</h1>
-                            <p style={{ fontSize: '12px', color: 'var(--color-text-muted)' }}>PharmaPlatform Control Centre</p>
+                            <p style={{ fontSize: '12px', color: 'var(--color-text-muted)' }}>IMMIMED Control Centre</p>
                         </div>
                     </div>
                     <button className="btn btn-ghost btn-sm" onClick={fetchAll} disabled={refreshing}>

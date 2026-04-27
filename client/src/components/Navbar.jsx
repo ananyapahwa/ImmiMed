@@ -49,7 +49,7 @@ const Navbar = () => {
                         WebkitBackgroundClip: 'text',
                         WebkitTextFillColor: 'transparent',
                     }}>
-                        PharmaPlatform
+                        IMMIMED
                     </span>
                 </Link>
 
